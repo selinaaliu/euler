@@ -1,3 +1,4 @@
+# based on http://profesores.elo.utfsm.cl/~agv/elo329/Java/javamakefile.html
 JFLAGS = -g
 JC = javac
 .SUFFIXES: .java .class
